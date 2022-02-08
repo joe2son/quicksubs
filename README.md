@@ -4,4 +4,6 @@ Quicksubs for Figma replaces text and generates images from a template based on 
 
 [Documentation can be found here](https://joe-27.gitbook.io/quicksubs-figma-plugin).
 
-© 2022 Korean Englishman & JOLLY
+If you are having an issue, [submit a bug report](https://github.com/joe2son/quicksubs/issues).
+
+© 2022 <a href="https://www.youtube.com/user/koreanenglishman" target="_blank">Korean Englishman</a> & <a href="https://www.youtube.com/c/jolly" target="_blank">JOLLY</a>
